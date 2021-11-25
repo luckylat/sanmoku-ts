@@ -1,13 +1,13 @@
 Reactのチュートリアルにある三目並べをtypescriptにして、スマホでも動かせるようにしました
 
-# Excute to Android
+## Excute to Android
 You must connect a Android smartphone or Emulator.
 ```
 npx cap run android
 ```
 
 
-# Excute to iPhone
+## Excute to iPhone
 You can google.
 
 
