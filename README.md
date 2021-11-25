@@ -1,3 +1,16 @@
+Reactのチュートリアルにある三目並べをtypescriptにして、スマホでも動かせるようにしました
+
+# Excute to Android
+You must connect a Android smartphone or Emulator.
+```
+npx cap run android
+```
+
+
+# Excute to iPhone
+You can google.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
