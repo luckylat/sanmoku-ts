@@ -1,10 +1,14 @@
 Reactのチュートリアルにある三目並べをtypescriptにして、スマホでも動かせるようにしました
 
 ## Excute to Android
-You must connect a Android smartphone or Emulator.
+You must installed Android Studio, and connected a Android smartphone or Emulator.
+
 ```
-npx cap run android
+npm i
+npm run build
+npx cap open android //Opened Android Studio.
 ```
+It is temporary approch.
 
 
 ## Excute to iPhone
